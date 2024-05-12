@@ -9,36 +9,48 @@
 ---
 <div align="center">
 
+I'm Ali Saleh, and I'm glad you've stopped by my GitHub page.
 
 
-    # 💫About Me :
+# 💫About Me :
 
-    I'm a PHP Developer specializing in Laravel and WordPress, with a knack for building dynamic web applications and content management systems. My expertise lies in crafting elegant solutions , ensuring seamless user experiences and robust backend functionality.
-
-
-    💬 Ask me about for any help
-
-    📫 How to reach me:
-    Mail me at "alisaleh138111@gmail.com" or
-    scroll to bottom of the page of "https://ali-saleh.ir" and find CONTACT ME
+I'm a PHP Developer specializing in Laravel and WordPress, with a knack for building dynamic web applications and content management systems. My expertise lies in crafting elegant solutions , ensuring seamless user experiences and robust backend functionality.
 
 
+💬 Ask me about for any help
 
-    ## 🌐Socials
-    [![linkedin](logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-saleh-87a570194/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/)
+📫 How to reach me:
+Mail me at "alisaleh138111@gmail.com" or
+scroll to bottom of the page of "https://ali-saleh.ir" and find CONTACT ME
 
-    # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-    # 📊GitHub Stats :
-    ![](https://github-readme-stats.vercel.app/api?username=alissaleh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=alissaleh&theme=radical&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alissaleh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-    ## 🏆GitHub Trophies
-    ![](https://github-profile-trophy.vercel.app/?username=alissaleh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-    ### ✍️Random Dev Quote
-    ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🌐Socials
+<a href = 'https://www.linkedin.com/in/ali-saleh-87a570194'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/alissaleh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-    ![](https://komarev.com/ghpvc/?username=alissaleh&label=Visitors+Count&color=brightgreen)
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=php&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=laravel&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+
+
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=python&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=javascript&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=vuejs&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=css&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=html&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alissaleh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+![](https://komarev.com/ghpvc/?username=alissaleh&label=Visitors+Count&color=brightgreen)
 </div>
+
