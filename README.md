@@ -9,7 +9,6 @@
 ---
 <div align="center">
 
-    I'm Ali Saleh, and I'm glad you've stopped by my GitHub page.
 
 
     # 💫About Me :
