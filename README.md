@@ -17,7 +17,7 @@ I'm Ali Saleh, and I'm glad you've stopped by my GitHub page.
 I'm a PHP Developer specializing in Laravel and WordPress, with a knack for building dynamic web applications and content management systems. My expertise lies in crafting elegant solutions , ensuring seamless user experiences and robust backend functionality.
 
 
-💬 Ask me about for any help
+# 💬 Ask me about for any help
 
 📫 How to reach me:
 Mail me at "alisaleh138111@gmail.com" or
@@ -25,7 +25,7 @@ scroll to bottom of the page of "https://ali-saleh.ir" and find CONTACT ME
 
 
 
-## 🌐Socials
+# 🌐Socials
 <a href = 'https://www.linkedin.com/in/ali-saleh-87a570194'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/alissaleh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
@@ -45,10 +45,10 @@ scroll to bottom of the page of "https://ali-saleh.ir" and find CONTACT ME
 <a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=html&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 
 
-## 🏆GitHub Trophies
+# 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alissaleh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![](https://komarev.com/ghpvc/?username=alissaleh&label=Visitors+Count&color=brightgreen)
