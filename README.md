@@ -34,8 +34,8 @@ scroll to bottom of the page of "https://ali-saleh.ir" and find CONTACT ME
 <a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=php&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
 <a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=laravel&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
 <a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
-<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mysql&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=redis&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
+<a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=mongodb&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 
 
 <a href= "https://github.com/alissaleh?tab=repositories&q=&type=&language=python&sort=" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
